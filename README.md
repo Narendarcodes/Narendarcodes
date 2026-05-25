@@ -1,111 +1,127 @@
-# Golla Narendar
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f766e,100:f59e0b&height=230&section=header&text=Golla%20Narendar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Agentic%20AI%20systems%20%7C%20Backend%20engineering%20%7C%20ML%20workflows&descAlignY=58" alt="Golla Narendar profile banner" width="100%" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:14b8a6&height=220&section=header&text=Golla%20Narendar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Agentic%20AI%20%7C%20FastAPI%20%7C%20Machine%20Learning&descAlignY=58" alt="header" />
-</p>
-
-<h3 align="center">Building agentic systems that solve real problems</h3>
-
-<p align="center">
-  CSE (AI & ML) student at CBIT, Hyderabad. I build practical AI products, backend systems, and workflow automation with a strong bias toward shipping.
-</p>
-
-<p align="center">
-  <a href="mailto:gollanarendar2004@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:gollanarendar2004@gmail.com"><img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/golla-narendar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/Narendarcodes"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+</div>
 
-## Dashboard
+## About
 
 <table>
   <tr>
-    <td valign="top" width="52%">
+    <td width="58%" valign="top">
 
-### Current focus
-
-- Building agentic AI workflows with strong backend foundations
-- Working with FastAPI, Redis, PostgreSQL, Docker, and Python
-- Exploring learning systems, productivity tooling, and automation-heavy products
-- Improving production discipline: testing, architecture, and security hygiene
-
-### Snapshot
-
-- B.E. CSE (AI & ML), CBIT Hyderabad, GPA `9.42`
-- Diploma in CSE, GPT-Masab Tank, GPA `9.85`
-- Executive Board Member at `VMEDHA`
-- TG-ECET 2025 Rank `49`
-- Polycet 2022 Rank `303`
+```yaml
+name: Golla Narendar
+location: Hyderabad, Telangana
+education: B.E. CSE (AI & ML), CBIT Hyderabad
+focus:
+  - Agentic AI workflows
+  - FastAPI backend systems
+  - ML-powered productivity tools
+  - Learning systems for students
+currently_building:
+  - WhatsApp calendar agent
+  - AI productivity extension
+  - Public project documentation discipline
+```
 
     </td>
-    <td valign="top" width="48%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Narendarcodes&show_icons=true&hide_border=true&title_color=2563eb&icon_color=14b8a6&text_color=334155&bg_color=ffffff" alt="GitHub stats" />
-      <img src="https://streak-stats.demolab.com?user=Narendarcodes&hide_border=true&ring=2563eb&fire=f97316&currStreakLabel=0f172a&sideNums=334155&sideLabels=334155&dates=64748b&background=FFFFFF" alt="GitHub streak" />
+    <td width="42%" valign="top">
+
+I build practical AI products around automation, scheduling, learning, and productivity. My work is strongest where backend systems meet real user workflows: APIs, queues, databases, agent tools, and clean product loops.
+
+I am studying CSE (AI & ML) at CBIT and actively improving my public engineering footprint: better docs, safer configuration, sharper demos, and more complete project packaging.
+
     </td>
   </tr>
 </table>
 
-## Tech stack
+## Workbench
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,docker,ts,react,nodejs,express,mongodb,cpp,git,github,vscode&perline=8" alt="Tech stack icons" />
 </p>
 
-## Featured work
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-### [Autonomous-Whatsapp-Agent](https://github.com/Narendarcodes/Autonomous-Whatsapp-Agent)
+### Systems I am building
 
-WhatsApp-based calendar automation built with FastAPI, Redis, PostgreSQL, Docker, and Google Calendar integration. The system is aimed at natural-language scheduling, reminders, and workflow continuity across messaging and calendar tools.
+- AI agents that call tools instead of only chatting
+- Calendar, task, and workflow automation
+- Student learning platforms and adaptive study systems
+- Chrome extensions that observe behavior and respond in context
 
-### [Flowly-Be-Productive-With-AI](https://github.com/Narendarcodes/Flowly-Be-Productive-With-AI)
+    </td>
+    <td width="50%" valign="top">
 
-A Chrome extension focused on flow-state tracking and productivity support. Built with TypeScript, React, Vite, and a multi-surface extension setup that includes analytics, popup, side-panel, and content UI.
+### Signals
 
-### [GPTLogicLoom](https://github.com/Narendarcodes/gptlogicloom)
+- CBIT B.E. CSE (AI & ML), GPA `9.42`
+- GPT-Masab Tank Diploma CSE, GPA `9.85`
+- TG-ECET 2025 Rank `49`
+- Polycet 2022 Rank `303`
+- Executive Board Member, `VMEDHA`
 
-A Django-based learning management system built to reduce research time for diploma students by centralizing programming and engineering learning resources in one place.
+    </td>
+  </tr>
+</table>
 
-### [studenInfoPlotter](https://github.com/Narendarcodes/studenInfoPlotter)
+## Featured Builds
 
-An early student-focused full-stack project built around structured information pages, grouping flows, and database-backed presentation for student data.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Narendarcodes/Autonomous-Whatsapp-Agent">Autonomous WhatsApp Calendar Agent</a></h3>
+      <p>FastAPI backend for WhatsApp-based calendar operations with OAuth, Redis-backed memory, PostgreSQL persistence, background workers, and Google Calendar tooling.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>Redis</code> <code>PostgreSQL</code> <code>Docker</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Narendarcodes/Flowly-Be-Productive-With-AI">Flowly - Be Productive With AI</a></h3>
+      <p>Chrome extension for flow-state scoring, distraction checks, popup/side-panel UI, analytics views, and behavior-aware productivity prompts.</p>
+      <p><code>TypeScript</code> <code>React</code> <code>Vite</code> <code>Chrome MV3</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Narendarcodes/gptlogicloom">GPTLogicLoom</a></h3>
+      <p>Django learning platform that centralizes programming and engineering resources for diploma students, including courses, contests, authentication, and progress flows.</p>
+      <p><code>Django</code> <code>SQLite</code> <code>Bootstrap</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Narendarcodes/studenInfoPlotter">studenInfoPlotter</a></h3>
+      <p>Early full-stack student information project with structured pages, grouping flows, and database-backed presentation.</p>
+      <p><code>PHP</code> <code>CSS</code> <code>JavaScript</code></p>
+    </td>
+  </tr>
+</table>
 
-## What I care about
+## GitHub Analytics
 
-- Agentic products that go beyond demos and hold up as systems
-- Learning tools that improve how students work, not just what they read
-- Backends that are easy to reason about, observable, and simple to extend
-- Shipping quickly, then tightening architecture and reliability
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Narendarcodes&show_icons=true&hide_border=true&title_color=0f766e&icon_color=f59e0b&text_color=334155&bg_color=ffffff" alt="GitHub stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Narendarcodes&hide_border=true&ring=0f766e&fire=f59e0b&currStreakLabel=020617&sideNums=334155&sideLabels=334155&dates=64748b&background=FFFFFF" alt="GitHub streak" />
+</p>
 
-## Leadership and experience
+<p align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narendarcodes&layout=compact&hide_border=true&title_color=0f766e&text_color=334155&bg_color=ffffff" alt="Top languages" />
+  <img width="54%" src="https://github-profile-trophy.vercel.app/?username=Narendarcodes&theme=flat&no-frame=true&no-bg=true&row=2&column=3&margin-w=12&margin-h=12" alt="GitHub trophies" />
+</p>
 
-- Executive Board Member at `VMEDHA`, helping run AI-focused technical initiatives, workshops, and outreach at CBIT
-- NSS volunteer experience across community service and team-based coordination
-- Part-time volunteer and video editor at `Aaryajanani Trust`, contributing to digital outreach and visual storytelling
+## Operating Notes
 
-## Current goals
-
-- Ship stronger public AI projects with cleaner docs and better production discipline
-- Collaborate on agentic AI, backend engineering, and ML-driven product ideas
-- Keep turning coursework and experiments into more complete public systems
+- I care about agentic products that hold up beyond demos.
+- I prefer small, testable backend pieces over opaque automation.
+- I am tightening my public repos: cleaner READMEs, safer secrets handling, and clearer setup paths.
+- I am open to collaboration around AI agents, backend engineering, and ML-driven student tools.
 
 ## Connect
 
-- LinkedIn: [linkedin.com/in/golla-narendar](https://www.linkedin.com/in/golla-narendar/)
-- GitHub: [github.com/Narendarcodes](https://github.com/Narendarcodes)
-- Email: [gollanarendar2004@gmail.com](mailto:gollanarendar2004@gmail.com)
-- Location: Hyderabad, Telangana
-
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narendarcodes&layout=compact&hide_border=true&title_color=2563eb&text_color=334155&bg_color=ffffff" alt="Top languages" />
+  <a href="https://www.linkedin.com/in/golla-narendar/">LinkedIn</a> |
+  <a href="https://github.com/Narendarcodes">GitHub</a> |
+  <a href="mailto:gollanarendar2004@gmail.com">Email</a>
 </p>

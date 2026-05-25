@@ -1,0 +1,73 @@
+<svg width="1280" height="430" viewBox="0 0 1280 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="430" rx="28" fill="#0A0D0F"/>
+  <defs>
+    <linearGradient id="snake" x1="140" y1="0" x2="1080" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F3F0E8"/>
+      <stop offset="0.45" stop-color="#B7F7D0"/>
+      <stop offset="1" stop-color="#D6CCB5"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop stop-color="#B7F7D0" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#B7F7D0" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+  </defs>
+
+  <circle cx="1034" cy="92" r="170" fill="url(#glow)" filter="url(#soft)" opacity="0.35"/>
+  <circle cx="178" cy="330" r="160" fill="#D6CCB5" filter="url(#soft)" opacity="0.08"/>
+
+  <g opacity="0.72">
+    <path d="M156 118H1124" stroke="#252C33"/>
+    <path d="M156 174H1124" stroke="#252C33"/>
+    <path d="M156 230H1124" stroke="#252C33"/>
+    <path d="M156 286H1124" stroke="#252C33"/>
+    <path d="M236 82V326" stroke="#1D2329"/>
+    <path d="M356 82V326" stroke="#1D2329"/>
+    <path d="M476 82V326" stroke="#1D2329"/>
+    <path d="M596 82V326" stroke="#1D2329"/>
+    <path d="M716 82V326" stroke="#1D2329"/>
+    <path d="M836 82V326" stroke="#1D2329"/>
+    <path d="M956 82V326" stroke="#1D2329"/>
+    <path d="M1076 82V326" stroke="#1D2329"/>
+  </g>
+
+  <path id="route" d="M148 286 C248 118 368 118 468 230 S692 344 796 190 S1004 82 1132 230" stroke="#303840" stroke-width="2" stroke-dasharray="6 12" opacity="0.8"/>
+  <path d="M148 286 C248 118 368 118 468 230 S692 344 796 190 S1004 82 1132 230" stroke="url(#snake)" stroke-width="24" stroke-linecap="round" opacity="0.18"/>
+
+  <g>
+    <circle r="22" fill="#B7F7D0"/>
+    <circle cx="8" cy="-7" r="5" fill="#0A0D0F"/>
+    <circle cx="8" cy="7" r="5" fill="#0A0D0F"/>
+    <animateMotion dur="8s" repeatCount="indefinite" rotate="auto">
+      <mpath href="#route"/>
+    </animateMotion>
+  </g>
+  <g opacity="0.72">
+    <circle r="18" fill="#D6CCB5">
+      <animateMotion dur="8s" begin="-0.45s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#route"/>
+      </animateMotion>
+    </circle>
+    <circle r="16" fill="#F3F0E8">
+      <animateMotion dur="8s" begin="-0.85s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#route"/>
+      </animateMotion>
+    </circle>
+    <circle r="14" fill="#B7F7D0">
+      <animateMotion dur="8s" begin="-1.2s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#route"/>
+      </animateMotion>
+    </circle>
+    <circle r="11" fill="#8B949E">
+      <animateMotion dur="8s" begin="-1.55s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#route"/>
+      </animateMotion>
+    </circle>
+  </g>
+
+  <text x="80" y="72" fill="#F3F0E8" font-family="Georgia, 'Times New Roman', serif" font-size="36" font-weight="700">Motion first. Systems underneath.</text>
+  <text x="82" y="352" fill="#8B949E" font-family="IBM Plex Mono, JetBrains Mono, Consolas, monospace" font-size="15">AI agents / backend automation / browser productivity / learning systems</text>
+  <text x="904" y="352" fill="#B7F7D0" font-family="IBM Plex Mono, JetBrains Mono, Consolas, monospace" font-size="15">Narendarcodes</text>
+</svg>

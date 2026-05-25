@@ -1,36 +1,47 @@
-<svg width="1280" height="380" viewBox="0 0 1280 380" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1280" height="380" rx="28" fill="#0A0D0F"/>
-  <path d="M84 80H1196" stroke="#2B3137" stroke-width="1"/>
-  <path d="M84 300H1196" stroke="#2B3137" stroke-width="1"/>
-  <path d="M180 48V332" stroke="#1D2329" stroke-width="1"/>
-  <path d="M1100 48V332" stroke="#1D2329" stroke-width="1"/>
-  <circle cx="1080" cy="106" r="190" fill="#B7F7D0" opacity="0.05"/>
-  <circle cx="210" cy="312" r="180" fill="#D6CCB5" opacity="0.04"/>
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="420" rx="34" fill="#07110F"/>
+  <path d="M0 0H1280V420H0V0Z" fill="url(#base)"/>
+  <circle cx="1090" cy="74" r="220" fill="#0F766E" opacity="0.36"/>
+  <circle cx="980" cy="350" r="210" fill="#F59E0B" opacity="0.18"/>
+  <circle cx="118" cy="342" r="180" fill="#22C55E" opacity="0.12"/>
+  <path d="M93 112H1187" stroke="#E2E8F0" stroke-opacity="0.12"/>
+  <path d="M93 306H1187" stroke="#E2E8F0" stroke-opacity="0.12"/>
+  <path d="M190 70V350" stroke="#E2E8F0" stroke-opacity="0.08"/>
+  <path d="M1092 70V350" stroke="#E2E8F0" stroke-opacity="0.08"/>
 
-  <rect x="84" y="48" width="1112" height="284" rx="24" fill="#0E1215" stroke="#252C33"/>
-  <rect x="112" y="76" width="150" height="32" rx="16" fill="#151B20" stroke="#303840"/>
-  <text x="136" y="97" fill="#B7F7D0" font-family="IBM Plex Mono, JetBrains Mono, Consolas, monospace" font-size="14" font-weight="600">Narendarcodes</text>
+  <rect x="92" y="70" width="1096" height="280" rx="28" fill="#020617" fill-opacity="0.58" stroke="#94A3B8" stroke-opacity="0.18"/>
+  <rect x="118" y="96" width="142" height="34" rx="17" fill="#0F766E" fill-opacity="0.22" stroke="#2DD4BF" stroke-opacity="0.35"/>
+  <text x="142" y="119" fill="#99F6E4" font-family="Consolas, Monaco, monospace" font-size="15" font-weight="700">Narendarcodes</text>
 
-  <text x="112" y="178" fill="#F3F0E8" font-family="Georgia, 'Times New Roman', serif" font-size="68" font-weight="700" letter-spacing="-2.4">Golla Narendar</text>
-  <text x="116" y="225" fill="#A8B0B7" font-family="IBM Plex Mono, JetBrains Mono, Consolas, monospace" font-size="20">AI agents / backend automation / developer systems</text>
+  <text x="118" y="190" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="62" font-weight="800" letter-spacing="-2">Golla Narendar</text>
+  <text x="122" y="235" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">Building AI agents, backend systems, and productivity tools</text>
 
-  <g font-family="IBM Plex Mono, JetBrains Mono, Consolas, monospace" font-size="14">
-    <text x="116" y="278" fill="#6E7681">01</text>
-    <text x="150" y="278" fill="#D0D7DE">tool-calling agents</text>
-    <text x="360" y="278" fill="#6E7681">02</text>
-    <text x="394" y="278" fill="#D0D7DE">FastAPI services</text>
-    <text x="594" y="278" fill="#6E7681">03</text>
-    <text x="628" y="278" fill="#D0D7DE">browser productivity</text>
+  <g font-family="Consolas, Monaco, monospace" font-size="16" font-weight="600">
+    <rect x="122" y="270" width="118" height="34" rx="17" fill="#0B332F" stroke="#14B8A6" stroke-opacity="0.45"/>
+    <text x="146" y="292" fill="#CCFBF1">FastAPI</text>
+    <rect x="252" y="270" width="96" height="34" rx="17" fill="#2B1F08" stroke="#F59E0B" stroke-opacity="0.45"/>
+    <text x="275" y="292" fill="#FEF3C7">Agents</text>
+    <rect x="360" y="270" width="124" height="34" rx="17" fill="#082F49" stroke="#38BDF8" stroke-opacity="0.45"/>
+    <text x="383" y="292" fill="#E0F2FE">TypeScript</text>
+    <rect x="496" y="270" width="118" height="34" rx="17" fill="#111827" stroke="#94A3B8" stroke-opacity="0.35"/>
+    <text x="520" y="292" fill="#E2E8F0">Postgres</text>
   </g>
 
-  <g transform="translate(884 104)">
-    <rect x="0" y="0" width="226" height="150" rx="18" fill="#090C0E" stroke="#2D333B"/>
-    <path d="M28 44H198" stroke="#2D333B"/>
-    <path d="M28 76H166" stroke="#2D333B"/>
-    <path d="M28 108H185" stroke="#2D333B"/>
-    <circle cx="31" cy="22" r="5" fill="#B7F7D0"/>
-    <circle cx="51" cy="22" r="5" fill="#D6CCB5"/>
-    <circle cx="71" cy="22" r="5" fill="#6E7681"/>
-    <text x="28" y="137" fill="#B7F7D0" font-family="IBM Plex Mono, JetBrains Mono, Consolas, monospace" font-size="13">builds that ship</text>
+  <g transform="translate(846 122)">
+    <rect x="0" y="0" width="266" height="168" rx="22" fill="#020617" stroke="#334155"/>
+    <circle cx="28" cy="28" r="7" fill="#EF4444"/>
+    <circle cx="52" cy="28" r="7" fill="#F59E0B"/>
+    <circle cx="76" cy="28" r="7" fill="#22C55E"/>
+    <text x="28" y="72" fill="#5EEAD4" font-family="Consolas, Monaco, monospace" font-size="15">$ build --public</text>
+    <text x="28" y="102" fill="#E2E8F0" font-family="Consolas, Monaco, monospace" font-size="15">agents + APIs</text>
+    <text x="28" y="132" fill="#E2E8F0" font-family="Consolas, Monaco, monospace" font-size="15">docs + security</text>
   </g>
+
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.48" stop-color="#071A18"/>
+      <stop offset="1" stop-color="#1C1304"/>
+    </linearGradient>
+  </defs>
 </svg>

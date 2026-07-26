@@ -2,7 +2,7 @@
   <img src="./assets/profile-header.svg" alt="Golla Narendar" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&duration=2200&pause=600&color=0F766E&center=true&vCenter=true&width=940&lines=AI+Agents+%E2%80%A2+Backend+Systems+%E2%80%A2+Dev+Tools;FastAPI+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+Postgres;Building+automation+that+touches+real+workflows" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&duration=2200&pause=600&color=0F766E&center=true&vCenter=true&width=940&lines=Agentic+AI+%E2%80%A2+Machine+Learning+%E2%80%A2+LLM+Orchestration;FastAPI+%E2%80%A2+TypeScript+%E2%80%A2+PyTorch+%E2%80%A2+React;Building+autonomous+agents+and+intelligent+systems" alt="Typing animation" />
   </a>
 
   <br />
@@ -17,24 +17,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Agentic%20AI-020617?style=flat-square" alt="Agentic AI" />
-  <img src="https://img.shields.io/badge/API%20Engineering-0F766E?style=flat-square" alt="API Engineering" />
-  <img src="https://img.shields.io/badge/Chrome%20Extensions-F59E0B?style=flat-square" alt="Chrome Extensions" />
-  <img src="https://img.shields.io/badge/Learning%20Platforms-111827?style=flat-square" alt="Learning Platforms" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-0F766E?style=flat-square" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/API%20Engineering-F59E0B?style=flat-square" alt="API Engineering" />
+  <img src="https://img.shields.io/badge/CBIT%20'28%20%7C%20GPTM%20'25-111827?style=flat-square" alt="Education" />
 </p>
 
 <br />
 
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
-</div>
-
 ## Live Board
-
-<p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Narendarcodes&theme=github_dark" alt="Repos per language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Narendarcodes&theme=github_dark" alt="Most commit language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Narendarcodes&theme=github_dark&utcOffset=5.5" alt="Productive time" />
-</p>
 
 <p align="center">
   <img width="49%" src="https://streak-stats.demolab.com?user=Narendarcodes&theme=github-dark-blue&hide_border=true&ring=5EEAD4&fire=F59E0B&currStreakLabel=5EEAD4" alt="GitHub streak" />
@@ -60,9 +50,9 @@
       <sub>extensions, panels, analytics</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=django,html,css,js" alt="Learning platform icons" /><br />
-      <b>Learning Tools</b><br />
-      <sub>resource flows, progress, students</sub>
+      <img src="https://skillicons.dev/icons?i=py,html,css,js" alt="Learning platform icons" /><br />
+      <b>AI &amp; ML Stack</b><br />
+      <sub>PyTorch, LLM agents, pipelines</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://skillicons.dev/icons?i=git,github,vscode,cpp" alt="Engineering icons" /><br />
@@ -85,8 +75,9 @@
   ·
   <a href="https://github.com/Narendarcodes/gptlogicloom">GPTLogicLoom</a>
   ·
-  <a href="https://github.com/Narendarcodes/studenInfoPlotter">studenInfoPlotter</a>
+  <a href="https://github.com/lohithabandirala/Agentic-adaptive-learning-system">Agentic Adaptive Learning System</a>
 </p>
+
 ## Motion
 
 <p align="center">
@@ -97,6 +88,3 @@
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:020617,50:0F766E,100:F59E0B" alt="Footer wave" width="100%" />
-</p>

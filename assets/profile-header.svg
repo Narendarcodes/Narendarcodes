@@ -6,20 +6,20 @@
   <path d="M0 40H1280M0 80H1280M0 120H1280M0 160H1280M0 200H1280M0 240H1280M0 280H1280M0 320H1280M0 360H1280M0 400H1280" stroke="#161B22" stroke-width="1" stroke-dasharray="4 4"/>
   <path d="M120 0V420M240 0V420M360 0V420M480 0V420M600 0V420M720 0V420M840 0V420M960 0V420M1080 0V420M1200 0V420" stroke="#161B22" stroke-width="1" stroke-dasharray="4 4"/>
 
-  <!-- Main Hero Frame Container (#161B22 with Stark Cyan/Red glow border) -->
-  <rect x="40" y="30" width="1200" height="360" rx="16" fill="#161B22" stroke="url(#stark-border-grad)" stroke-width="1.5"/>
+  <!-- Main Hero Frame Container (#161B22 with Cyan/Red accent border) -->
+  <rect x="40" y="30" width="1200" height="360" rx="16" fill="#161B22" stroke="url(#hero-border-grad)" stroke-width="1.5"/>
 
   <!-- Top System Header Bar -->
   <path d="M40 80H1240" stroke="#30363D" stroke-width="1.5"/>
   <rect x="70" y="48" width="16" height="16" rx="8" fill="#FF7B72"/>
   <rect x="94" y="48" width="16" height="16" rx="8" fill="#FFA657"/>
   <rect x="118" y="48" width="16" height="16" rx="8" fill="#7EE787"/>
-  <text x="150" y="61" fill="#79C0FF" font-family="Consolas, Monaco, monospace" font-size="13" font-weight="700">STARK_OS // AGENTIC_AI_CONSOLE_v2026.1</text>
-  <text x="1060" y="61" fill="#FF7B72" font-family="Consolas, Monaco, monospace" font-size="13" font-weight="700">[ SYSTEM_ONLINE ]</text>
+  <text x="150" y="61" fill="#79C0FF" font-family="Consolas, Monaco, monospace" font-size="13" font-weight="700">DEVELOPER_WORKSPACE // AGENTIC_AI_STACK</text>
+  <text x="1050" y="61" fill="#7EE787" font-family="Consolas, Monaco, monospace" font-size="13" font-weight="700">[ ACTIVE_BUILDER ]</text>
 
-  <!-- Left Content: Operator Identity & Bio -->
+  <!-- Left Content: Developer Identity & Bio -->
   <rect x="70" y="105" width="170" height="28" rx="14" fill="#1C2128" stroke="#30363D"/>
-  <text x="86" y="124" fill="#00F0FF" font-family="Consolas, Monaco, monospace" font-size="12" font-weight="700">OPERATOR: NARENDAR</text>
+  <text x="86" y="124" fill="#00F0FF" font-family="Consolas, Monaco, monospace" font-size="12" font-weight="700">DEVELOPER: NARENDAR</text>
 
   <text x="70" y="195" fill="#F0F6FC" font-family="Inter, Segoe UI, sans-serif" font-size="52" font-weight="800" letter-spacing="-1.5">Golla Narendar</text>
   <text x="72" y="235" fill="#8B949E" font-family="Inter, Segoe UI, sans-serif" font-size="20" font-weight="500">Agentic AI &amp; Machine Learning Developer • CBIT '28 | GPTM '25</text>
@@ -34,7 +34,7 @@
     <rect x="208" y="275" width="124" height="36" rx="18" fill="#21262D" stroke="#FFA657" stroke-width="1.2"/>
     <text x="230" y="298" fill="#FFA657">🔥 PyTorch</text>
 
-    <!-- Badge 3: LangGraph / AI Agents -->
+    <!-- Badge 3: AI Agents -->
     <rect x="344" y="275" width="138" height="36" rx="18" fill="#21262D" stroke="#00F0FF" stroke-width="1.2"/>
     <text x="364" y="298" fill="#00F0FF">🤖 AI Agents</text>
 
@@ -43,36 +43,36 @@
     <text x="514" y="298" fill="#79C0FF">📘 TypeScript</text>
   </g>
 
-  <!-- Right Visual Element: Arc Reactor Tech Schematic -->
+  <!-- Right Visual Element: Precision Tech Node Graphic -->
   <g transform="translate(940 235)">
-    <!-- Outer Arc Glowing Rings -->
+    <!-- Outer Rings -->
     <circle cx="0" cy="0" r="110" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
     <circle cx="0" cy="0" r="94" fill="none" stroke="#00F0FF" stroke-width="1.5" stroke-dasharray="10 5" opacity="0.6"/>
     <circle cx="0" cy="0" r="76" fill="none" stroke="#FF7B72" stroke-width="1.5" opacity="0.5"/>
     <circle cx="0" cy="0" r="58" fill="#161B22" stroke="#FFD700" stroke-width="2"/>
 
-    <!-- Arc Reactor Core Glow -->
-    <circle cx="0" cy="0" r="38" fill="url(#arc-core-glow)"/>
+    <!-- Central Node Glow -->
+    <circle cx="0" cy="0" r="38" fill="url(#core-node-glow)"/>
     <circle cx="0" cy="0" r="22" fill="#00F0FF"/>
 
-    <!-- Arc Triangles / Spoke Pattern -->
+    <!-- Orbital Triangles -->
     <path d="M0 -76 L12 -50 L-12 -50 Z" fill="#00F0FF" opacity="0.8"/>
     <path d="M0 76 L12 50 L-12 50 Z" fill="#00F0FF" opacity="0.8"/>
     <path d="M-76 0 L-50 12 L-50 -12 Z" fill="#FF7B72" opacity="0.8"/>
     <path d="M76 0 L50 12 L50 -12 Z" fill="#FF7B72" opacity="0.8"/>
 
-    <!-- Status Text Under Arc Reactor -->
-    <text x="0" y="132" fill="#00F0FF" font-family="Consolas, Monaco, monospace" font-size="12" font-weight="700" text-anchor="middle">MARK-85 ARC CORE: ACTIVE</text>
+    <!-- Professional Status Label -->
+    <text x="0" y="132" fill="#00F0FF" font-family="Consolas, Monaco, monospace" font-size="12" font-weight="700" text-anchor="middle">AI CORE NODE: ACTIVE</text>
   </g>
 
   <!-- Gradients Definition -->
   <defs>
-    <linearGradient id="stark-border-grad" x1="40" y1="30" x2="1240" y2="390" gradientUnits="userSpaceOnUse">
+    <linearGradient id="hero-border-grad" x1="40" y1="30" x2="1240" y2="390" gradientUnits="userSpaceOnUse">
       <stop stop-color="#00F0FF" stop-opacity="0.8"/>
       <stop offset="0.5" stop-color="#30363D"/>
       <stop offset="1" stop-color="#FF7B72" stop-opacity="0.8"/>
     </linearGradient>
-    <radialGradient id="arc-core-glow" cx="50%" cy="50%" r="50%">
+    <radialGradient id="core-node-glow" cx="50%" cy="50%" r="50%">
       <stop offset="0%" stop-color="#00F0FF" stop-opacity="1"/>
       <stop offset="60%" stop-color="#00F0FF" stop-opacity="0.4"/>
       <stop offset="100%" stop-color="#161B22" stop-opacity="0"/>

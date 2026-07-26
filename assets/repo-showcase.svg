@@ -7,7 +7,7 @@
   <!-- Header section -->
   <path d="M72 96H1208" stroke="#30363D" stroke-width="1.5"/>
   <text x="72" y="70" fill="#F0F6FC" font-family="Inter, Segoe UI, sans-serif" font-size="36" font-weight="800" letter-spacing="-1.4">Featured Repositories</text>
-  <text x="910" y="70" fill="#00F0FF" font-family="Consolas, Monaco, monospace" font-size="14" font-weight="700">Narendarcodes // Stark Modules</text>
+  <text x="910" y="70" fill="#00F0FF" font-family="Consolas, Monaco, monospace" font-size="14" font-weight="700">Narendarcodes // System Architecture</text>
 
   <!-- Card 1: Autonomous WhatsApp Agent -->
   <g transform="translate(72 130)">

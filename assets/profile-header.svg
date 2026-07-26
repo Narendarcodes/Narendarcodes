@@ -1,47 +1,45 @@
 <svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1280" height="420" rx="34" fill="#0B0E14"/>
+  <rect width="1280" height="420" rx="24" fill="#0D1117"/>
   <path d="M0 0H1280V420H0V0Z" fill="url(#base)"/>
-  <circle cx="1090" cy="74" r="220" fill="#E50914" opacity="0.25"/>
-  <circle cx="980" cy="350" r="210" fill="#00F0FF" opacity="0.20"/>
-  <circle cx="118" cy="342" r="180" fill="#FFD700" opacity="0.15"/>
-  <path d="M93 112H1187" stroke="#00F0FF" stroke-opacity="0.15"/>
-  <path d="M93 306H1187" stroke="#E50914" stroke-opacity="0.15"/>
-  <path d="M190 70V350" stroke="#00F0FF" stroke-opacity="0.10"/>
-  <path d="M1092 70V350" stroke="#00F0FF" stroke-opacity="0.10"/>
+  <circle cx="1090" cy="74" r="220" fill="#E50914" opacity="0.18"/>
+  <circle cx="980" cy="350" r="210" fill="#00F0FF" opacity="0.15"/>
+  <circle cx="118" cy="342" r="180" fill="#FFD700" opacity="0.12"/>
+  <path d="M93 112H1187" stroke="#30363D" stroke-opacity="0.8"/>
+  <path d="M93 306H1187" stroke="#30363D" stroke-opacity="0.8"/>
 
-  <rect x="92" y="70" width="1096" height="280" rx="28" fill="#050811" fill-opacity="0.75" stroke="#00F0FF" stroke-opacity="0.30"/>
-  <rect x="118" y="96" width="142" height="34" rx="17" fill="#E50914" fill-opacity="0.25" stroke="#E50914" stroke-opacity="0.60"/>
-  <text x="142" y="119" fill="#FF8080" font-family="Consolas, Monaco, monospace" font-size="15" font-weight="700">Narendarcodes</text>
+  <rect x="92" y="70" width="1096" height="280" rx="20" fill="#161B22" fill-opacity="0.90" stroke="#30363D" stroke-width="1.5"/>
+  <rect x="118" y="96" width="142" height="34" rx="17" fill="#E50914" fill-opacity="0.20" stroke="#E50914" stroke-opacity="0.50"/>
+  <text x="142" y="119" fill="#FF7B72" font-family="Consolas, Monaco, monospace" font-size="15" font-weight="700">Narendarcodes</text>
 
-  <text x="118" y="190" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="62" font-weight="800" letter-spacing="-2">Golla Narendar</text>
-  <text x="122" y="235" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">Agentic AI &amp; Machine Learning Developer • CBIT '28 | GPTM '25</text>
+  <text x="118" y="190" fill="#F0F6FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="60" font-weight="800" letter-spacing="-2">Golla Narendar</text>
+  <text x="122" y="235" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="500">Agentic AI &amp; Machine Learning Developer • CBIT '28 | GPTM '25</text>
 
-  <g font-family="Consolas, Monaco, monospace" font-size="16" font-weight="600">
-    <rect x="122" y="270" width="118" height="34" rx="17" fill="#2E0407" stroke="#E50914" stroke-opacity="0.60"/>
-    <text x="146" y="292" fill="#FFB3B3">FastAPI</text>
-    <rect x="252" y="270" width="96" height="34" rx="17" fill="#2B2004" stroke="#FFD700" stroke-opacity="0.60"/>
-    <text x="275" y="292" fill="#FFEAA7">Agents</text>
-    <rect x="360" y="270" width="124" height="34" rx="17" fill="#032433" stroke="#00F0FF" stroke-opacity="0.60"/>
-    <text x="383" y="292" fill="#B3F8FF">TypeScript</text>
-    <rect x="496" y="270" width="118" height="34" rx="17" fill="#181925" stroke="#94A3B8" stroke-opacity="0.45"/>
-    <text x="520" y="292" fill="#E2E8F0">PyTorch</text>
+  <g font-family="Consolas, Monaco, monospace" font-size="15" font-weight="600">
+    <rect x="122" y="270" width="118" height="34" rx="17" fill="#21262D" stroke="#E50914" stroke-opacity="0.50"/>
+    <text x="146" y="292" fill="#FFA5A5">FastAPI</text>
+    <rect x="252" y="270" width="96" height="34" rx="17" fill="#21262D" stroke="#FFD700" stroke-opacity="0.50"/>
+    <text x="275" y="292" fill="#FFE58F">Agents</text>
+    <rect x="360" y="270" width="124" height="34" rx="17" fill="#21262D" stroke="#00F0FF" stroke-opacity="0.50"/>
+    <text x="383" y="292" fill="#79C0FF">TypeScript</text>
+    <rect x="496" y="270" width="118" height="34" rx="17" fill="#21262D" stroke="#30363D" stroke-opacity="0.80"/>
+    <text x="520" y="292" fill="#C9D1D9">PyTorch</text>
   </g>
 
   <g transform="translate(846 122)">
-    <rect x="0" y="0" width="266" height="168" rx="22" fill="#030712" stroke="#00F0FF" stroke-opacity="0.40"/>
-    <circle cx="28" cy="28" r="7" fill="#E50914"/>
-    <circle cx="52" cy="28" r="7" fill="#FFD700"/>
-    <circle cx="76" cy="28" r="7" fill="#00F0FF"/>
-    <text x="28" y="72" fill="#00F0FF" font-family="Consolas, Monaco, monospace" font-size="15">$ jarvis --status</text>
-    <text x="28" y="102" fill="#FFD700" font-family="Consolas, Monaco, monospace" font-size="15">STARK_AI: ONLINE</text>
-    <text x="28" y="132" fill="#E2E8F0" font-family="Consolas, Monaco, monospace" font-size="15">agents + pipelines</text>
+    <rect x="0" y="0" width="266" height="168" rx="16" fill="#0D1117" stroke="#30363D" stroke-width="1.5"/>
+    <circle cx="28" cy="28" r="7" fill="#FF7B72"/>
+    <circle cx="52" cy="28" r="7" fill="#FFA657"/>
+    <circle cx="76" cy="28" r="7" fill="#7EE787"/>
+    <text x="28" y="72" fill="#79C0FF" font-family="Consolas, Monaco, monospace" font-size="14">$ jarvis --status</text>
+    <text x="28" y="102" fill="#FFA657" font-family="Consolas, Monaco, monospace" font-size="14">STARK_AI: ONLINE</text>
+    <text x="28" y="132" fill="#8B949E" font-family="Consolas, Monaco, monospace" font-size="14">agents + pipelines</text>
   </g>
 
   <defs>
     <linearGradient id="base" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#05070E"/>
-      <stop offset="0.50" stop-color="#1A0408"/>
-      <stop offset="1" stop-color="#041824"/>
+      <stop stop-color="#0D1117"/>
+      <stop offset="0.50" stop-color="#161B22"/>
+      <stop offset="1" stop-color="#0D1117"/>
     </linearGradient>
   </defs>
 </svg>

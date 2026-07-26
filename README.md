@@ -2,7 +2,7 @@
   <img src="./assets/profile-header.svg" alt="Golla Narendar" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&duration=2200&pause=600&color=0F766E&center=true&vCenter=true&width=940&lines=Agentic+AI+%E2%80%A2+Machine+Learning+%E2%80%A2+LLM+Orchestration;FastAPI+%E2%80%A2+TypeScript+%E2%80%A2+PyTorch+%E2%80%A2+React;Building+autonomous+agents+and+intelligent+systems" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2200&pause=600&color=2DD4BF&center=true&vCenter=true&width=940&lines=Agentic+AI+%E2%80%A2+Machine+Learning+%E2%80%A2+LLM+Orchestration;FastAPI+%E2%80%A2+TypeScript+%E2%80%A2+PyTorch+%E2%80%A2+React;Building+autonomous+agents+and+intelligent+systems" alt="Typing animation" />
   </a>
 
   <br />
@@ -16,9 +16,9 @@
 <br />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Agentic%20AI-020617?style=flat-square" alt="Agentic AI" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-0F766E?style=flat-square" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/API%20Engineering-F59E0B?style=flat-square" alt="API Engineering" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-0D1117?style=flat-square&logo=openai&logoColor=2DD4BF" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-0F766E?style=flat-square&logo=pytorch&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/API%20Engineering-F59E0B?style=flat-square&logo=fastapi&logoColor=white" alt="API Engineering" />
   <img src="https://img.shields.io/badge/CBIT%20'28%20%7C%20GPTM%20'25-111827?style=flat-square" alt="Education" />
 </p>
 
@@ -35,7 +35,7 @@
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Narendarcodes&bg_color=020617&color=cbd5e1&line=14b8a6&point=f59e0b&area=true&hide_border=true" alt="Activity graph" />
 </p>
 
-## Systems
+## Systems Architecture
 
 <table>
   <tr>
@@ -50,7 +50,7 @@
       <sub>extensions, panels, analytics</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=py,html,css,js" alt="Learning platform icons" /><br />
+      <img src="https://skillicons.dev/icons?i=py,html,css,js" alt="AI Stack" /><br />
       <b>AI &amp; ML Stack</b><br />
       <sub>PyTorch, LLM agents, pipelines</sub>
     </td>
@@ -62,7 +62,7 @@
   </tr>
 </table>
 
-## Featured Repos
+## Featured Repositories
 
 <p align="center">
   <img src="./assets/repo-showcase.svg" alt="Featured repositories" width="100%" />

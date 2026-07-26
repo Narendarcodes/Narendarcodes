@@ -73,9 +73,9 @@
   ·
   <a href="https://github.com/Narendarcodes/Flowly-Be-Productive-With-AI">Flowly</a>
   ·
-  <a href="https://github.com/Narendarcodes/gptlogicloom">GPTLogicLoom</a>
+  <a href="https://github.com/Narendarcodes/NaruClip-Engine">NaruClip Engine</a>
   ·
-  <a href="https://github.com/lohithabandirala/Agentic-adaptive-learning-system">Agentic Adaptive Learning System</a>
+  <a href="https://github.com/Narendarcodes/power-system-fault-detection">Power System Fault Detection</a>
 </p>
 
 ## Motion
